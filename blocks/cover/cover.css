@@ -3,7 +3,7 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    margin: 92px 48px 0;
+    margin: 150px 48px 0;
 }
 
 @media screen and (max-width: 1280px) {
@@ -15,5 +15,11 @@
 @media screen and (max-width: 768px) {
     .cover {
         margin-top: 90px;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .cover {
+        margin-top: 66px;
     }
 }
