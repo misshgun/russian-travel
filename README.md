@@ -19,4 +19,4 @@
 
 
 **GitHub Pages**
-Ссылка на проект: 
+Ссылка на проект: https://misshgun.github.io/russian-travel/
