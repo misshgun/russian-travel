@@ -3,12 +3,13 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    margin: 150px 48px 0;
+    margin: 92px 48px 0;
 }
 
-@media screen and (max-width: 1280px) {
+@media screen and (max-width: 1279px) {
     .cover {
-        margin: 92px 0 0 0;
+        margin-left: 0;
+        margin-right: 0;
     }
 }
 

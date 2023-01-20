@@ -7,9 +7,7 @@
     color: #FFFFFF;
     text-decoration: none;
     display: block;
-    padding-top: 12px;
-}
-
-.place__link:hover {
+    margin-top: 12px;
     text-decoration: underline;
+    max-width: fit-content;
 }
