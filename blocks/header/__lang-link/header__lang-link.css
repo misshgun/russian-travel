@@ -14,10 +14,6 @@
     margin-right: 0;
 }
 
-.header__lang-link:hover {
-    text-decoration: underline;
-}
-
 @media screen and (max-width: 768px) {
     .header__lang-link {
         margin-bottom: 6px;
